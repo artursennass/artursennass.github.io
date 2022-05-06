@@ -1,18 +1,34 @@
+
+body {
+    background-color: #B28C6C;
+}
+
+
 #titulo1 {
     font-family: 'Courier New', Courier, monospace;
+}
+#fotoartur {
+    padding: 20px;
+    border-radius: 50%;
+    width: 30%;
+    /* align: center; */
 }
 #descricao {
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 #realcando {
-    color: green;
+    color: #053225;
+    font-weight: bold;
 }
-.html {
-    font-size: 16px;
+#habilidades {
+    padding: 0px;
 }
-.css {
+ul {
+    /* border: 550px; */
+}
+.listaHabilidades {
     font-size: 18px;
 }
 .extra {
-    font-size: 22px;
+    font-size: 20px;
 }
