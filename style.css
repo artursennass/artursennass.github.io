@@ -8,11 +8,29 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
+header h1 {
+    text-align: center;
+}
+
 #fotoartur {
     padding: 20px;
     border-radius: 100%;
-    width: 30%;
-    /* align: center; */
+    width: 40%;
+    background-color: black;
+    margin-right: 15px;
+    margin-bottom: 10px;
+    float: left;
+}
+
+article {
+    margin: 20px;
+    /* border: 2px solid yellow; */
+}
+
+section p {
+    padding: 20px;
+    /* margin: 200px; */
+    border-left: 10px;
 }
 
 .text {
@@ -53,3 +71,5 @@ ul {
 .iconereferencia {
     color: rgb(188, 194, 189);
 }
+
+
